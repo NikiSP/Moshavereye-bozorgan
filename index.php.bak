@@ -1,6 +1,4 @@
 <?php
-//Niki-Sepasian 400105003
-
 $LOL = 'سوال خود را بپرس!';
 $question = '';
 
